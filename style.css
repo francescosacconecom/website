@@ -2,13 +2,10 @@ body {
   background-color: #fafafa;
   color: #4a515b;
   font-family: sans-serif;
+  font-size: 2vw;
   line-height: 1.6;
   margin: 0;
   padding: 6rem 20rem;
-}
-
-body * {
-  font-size: inherit;
 }
 
 header {
