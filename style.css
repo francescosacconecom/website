@@ -44,8 +44,7 @@ footer {
 
 h1, h2, h3, h4, h5, h6 {
   color: #3b4149;
-  margin-bottom: 1em;
-  margin-top: 2em;
+  margin: 1em 0;
 }
 
 p, ul, ol, blockquote {
