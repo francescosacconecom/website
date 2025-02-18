@@ -6,7 +6,7 @@ I am a musician and a cyber security enthusiast.
 Contact
 -------
 
-You can contact me through email on
+You can contact me through email at
 [francesco@francescosaccone.com](mailto:francesco@francescosaccone.com).
 
 I sign all my outgoing emails with my [OpenPGP key](/public/francescosaccone.asc). Its
