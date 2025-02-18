@@ -1,7 +1,7 @@
 Francesco Saccone
 =================
 
-I am a musician and a cyber security enthusiast.
+I am a musician and a cybersecurity enthusiast.
 
 Contact
 -------
