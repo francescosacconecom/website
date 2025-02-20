@@ -91,14 +91,23 @@ strong {
   font-weight: bold;
 }
 
-code, pre {
+code {
   background-color: #f4f4f4;
   border-radius: 1em;
-  padding: 0.5em 1em;
+  padding: 0.2em;
 }
 
 pre {
+  background-color: #f4f4f4;
+  border-radius: 1em;
+  padding: 1em;
   overflow: auto;
+  white-space: pre-wrap;
+}
+
+pre code {
+  background: none;
+  color: inherit;
 }
 
 table {
