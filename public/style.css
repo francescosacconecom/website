@@ -29,12 +29,14 @@ header nav {
   align-items: center;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 
 header a {
   font-family: serif;
   font-size: 1.4em;
+  margin: 0 0.5em;
   text-decoration: none;
   transition: 0.2s;
 }
