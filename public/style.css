@@ -5,7 +5,7 @@ body {
   font-size: 1rem;
   line-height: 1.6;
   margin: 0;
-  padding: 6rem 20rem;
+  padding: 0 24%;
 }
 
 header {
@@ -125,7 +125,7 @@ sup {
 
 @media (orientation: portrait) {
   body {
-    padding: 2rem;
+    padding: 0 2rem;
   }
 
   header nav {
