@@ -38,7 +38,7 @@ header a {
   font-size: 1.4em;
   margin: 0 0.5em;
   text-decoration: none;
-  transition: 0.2s;
+  transition: 0.2s ease-in-out;
 }
 
 header a:hover {
@@ -62,7 +62,7 @@ ul, ol {
 a {
   color: inherit;
   text-decoration: underline;
-  transition: 0.2s;
+  transition: 0.2s ease-in-out;
 }
 
 a:hover {
