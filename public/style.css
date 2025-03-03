@@ -75,8 +75,7 @@ ul, ol {
 
 img {
   border: solid 0.1em;
-  border-radius: 0.5em;
-  height: auto;
+  border-radius: 0.3em;
   max-width: 100%;
 }
 
@@ -99,7 +98,7 @@ strong {
 
 code, pre, table {
   background-color: #e4e4e4;
-  border-radius: 0.5em;
+  border-radius: 0.3em;
   padding: 0.2em;
 }
 
