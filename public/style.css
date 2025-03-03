@@ -20,7 +20,8 @@ footer {
   width: 100%;
 }
 
-header, footer {
+header,
+footer {
   color: #acacac;
   font-family: serif;
   margin: 1em 0;
@@ -55,21 +56,30 @@ a:hover {
 }
 
 a.footnote-ref,
-a.footnote-ref:hover
+a.footnote-ref:hover,
 a.footnote-back,
 a.footnote-back:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 1em 0;
 }
 
-p, ul, ol, blockquote {
+p,
+ul,
+ol,
+blockquote {
   margin: 0.5em 0;
 }
 
-ul, ol {
+ul,
+ol {
   margin-left: 1.5em;
 }
 
@@ -84,7 +94,8 @@ hr {
   margin: 1em 0;
 }
 
-em, figcaption {
+em,
+figcaption {
   font-style: italic;
 }
 
@@ -96,7 +107,9 @@ strong {
   font-weight: bold;
 }
 
-code, pre, table {
+code,
+pre,
+table {
   background-color: #e4e4e4;
   border-radius: 0.3em;
   padding: 0.2em;
@@ -117,7 +130,8 @@ table {
   width: 100%;
 }
 
-th, td {
+th,
+td {
   padding: 0.5em;
   text-align: center;
 }
@@ -137,8 +151,9 @@ sup {
     background-color: #111111;
     color: #e4e4e4;
   }
-  
-  header, footer {
+
+  header,
+  footer {
     color: #535353;
   }
 
@@ -146,7 +161,9 @@ sup {
     color: #e4e4e4;
   }
 
-  code, pre, table {
+  code,
+  pre,
+  table {
     background-color: #1b1b1b;
   }
 }
