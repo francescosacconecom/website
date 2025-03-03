@@ -85,8 +85,12 @@ hr {
   margin: 1em 0;
 }
 
-em {
+em, figcaption {
   font-style: italic;
+}
+
+figcaption {
+  font-size: 0.9em;
 }
 
 strong {
