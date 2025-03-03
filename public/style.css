@@ -10,6 +10,7 @@ body {
 
 header {
   border-bottom: solid 0.1em;
+  font-size: 1.3em;
 }
 
 footer {
@@ -33,8 +34,6 @@ header nav {
 }
 
 header a {
-  font-size: 1.4em;
-  margin: 0 0.5em;
   text-decoration: none;
 }
 
